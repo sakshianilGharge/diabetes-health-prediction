@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+plotly
+Pillow
+Werkzeug
+reportlab
+mysql-connector-python
+scikit-learn
