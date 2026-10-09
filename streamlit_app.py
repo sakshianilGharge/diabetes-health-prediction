@@ -83,7 +83,8 @@ st.markdown(
     }
 
     header {
-        visibility: hidden;
+        visibility: visible;
+        background: transparent;
     }
 
     footer {
